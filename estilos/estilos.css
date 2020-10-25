@@ -171,3 +171,8 @@ footer{
     grid-column: 1/13;
     font-size: 25px;
 }
+.cta:hover{
+    background: #fff;
+    color: black;
+    border: 2px solid black;
+}
